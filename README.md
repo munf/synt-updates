@@ -25,7 +25,7 @@ The engine, its scoring rules and its thresholds stay private. This repo only ho
 - Solana terminal preview: public since 9 Oct 2026.
 - Data notes (Discovery): public since 21 Oct 2026.
 - BNB numbers: provisional. Labels are not calibrated yet, so there are no accuracy claims for BNB scores.
-- Built by a solo founder in Jakarta.
+- Built by a solo founder in Yogyakarta.
 
 ## Feedback
 
