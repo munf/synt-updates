@@ -2,6 +2,10 @@
 
 Dates are UTC unless noted. Only changes visible in the public terminal or data notes are listed here.
 
+## 2026-10-23
+
+- This public changelog opened, with notes on how to read an audit score and on what the BNB recorder measures.
+
 ## 2026-10-22
 
 - Terminal: very small prices are written with subscript zeros (for example $0.0₅2921) instead of long strings of zeros.
