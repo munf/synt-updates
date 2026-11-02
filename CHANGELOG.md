@@ -2,6 +2,10 @@
 
 Dates are UTC unless noted. Only changes visible in the public terminal or data notes are listed here.
 
+## 2026-10-29
+
+- Trenches: the WHY and TOP RISK lines now fit properly when the side panel is open, and card styling was tidied.
+
 ## 2026-10-23
 
 - This public changelog opened, with notes on how to read an audit score and on what the BNB recorder measures.
