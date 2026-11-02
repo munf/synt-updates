@@ -6,6 +6,11 @@ Dates are UTC unless noted. Only changes visible in the public terminal or data 
 
 - Trenches: the WHY and TOP RISK lines now fit properly when the side panel is open, and card styling was tidied.
 
+## 2026-10-28
+
+- BNB pairs in Trenches and on the token page now show a 0 to 100 score in the same format as Solana, with percentages shown to one decimal.
+- Pages that had no live data behind them are now closed instead of showing empty placeholders.
+
 ## 2026-10-23
 
 - This public changelog opened, with notes on how to read an audit score and on what the BNB recorder measures.
