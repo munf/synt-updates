@@ -15,6 +15,17 @@ Each dated release has a version number (v0.N.0) and a matching git tag. Version
 - Pages for tokens synt does not track link to DexScreener only when DexScreener knows the token, and a paid DexScreener listing is marked as not a safety signal.
 - The early access notice is now a one-line pill that no longer covers the table, and Got it hides it for a day.
 
+## 2026-11-04 (v0.10.0)
+
+- Accounts opened on the public preview: sign in with a Solana wallet, or an EVM wallet such as MetaMask, by signing a message. A Solana address and an EVM address are separate accounts.
+- Your watchlist and settings now follow your account, so they stay the same on every device you sign in from.
+- A notification bell for score and price alerts on watchlist tokens, system messages, and following other accounts with follower counts.
+- Trading from the terminal, non-custodial: Buy and Sell panels on Solana and BNB Chain token pages, plus quick buy in Trenches. Your own wallet signs every transaction and synt never holds your funds.
+- Every trade opens a review step first, then shows live transaction status. Positions and a portfolio view are kept per chain.
+- Selling your whole balance of a Solana token closes its token account and returns the rent to your wallet. The review step shows the amount.
+- Support: the ? button in the terminal opens a support form that can include the page you were on.
+- Terms and Privacy pages now cover accounts and trading, and you can delete your account yourself from settings.
+
 ## 2026-10-29 (v0.8.0)
 
 - Trenches: the WHY and TOP RISK lines now fit properly when the side panel is open, and card styling was tidied.
