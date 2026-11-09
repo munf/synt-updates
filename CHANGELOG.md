@@ -15,6 +15,17 @@ Each dated release has a version number (v0.N.0) and a matching git tag. Version
 - Pages for tokens synt does not track link to DexScreener only when DexScreener knows the token, and a paid DexScreener listing is marked as not a safety signal.
 - The early access notice is now a one-line pill that no longer covers the table, and Got it hides it for a day.
 
+## 2026-11-07 (v0.11.0)
+
+- The early access notice is now a small card in the corner instead of a window that covers the page.
+- Faster first load: each page loads only when you open it, and the price chart loads only on token pages.
+- BNB Trenches now uses the same table as Solana, with the same columns and row density. Columns that are always empty at a given stage were removed.
+- Price chart: a small synt mark in the top left corner replaces the chart library watermark.
+- Price change windows longer than a pair's age now show a blank, and tapping it shows the pair's age, instead of a misleading figure.
+- BNB charts state the rate used for USD prices, for example 1 SPCXB = $134.49.
+- BNB token pages: the first two minute buyer figures are labelled clearly and note that they are not a share of total supply.
+- Trenches: the Scored only filter now appears on BNB only, since every Solana row is already scored. The 30 second refresh pauses while the tab is hidden.
+
 ## 2026-11-04 (v0.10.0)
 
 - Accounts opened on the public preview: sign in with a Solana wallet, or an EVM wallet such as MetaMask, by signing a message. A Solana address and an EVM address are separate accounts.
