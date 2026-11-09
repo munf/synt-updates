@@ -12,7 +12,7 @@ synt screens every new pair and publishes a full audit for the ones that pass. E
 
 | | |
 |---|---|
-| [CHANGELOG.md](CHANGELOG.md) | What changed in the public terminal and data notes, by date |
+| [CHANGELOG.md](CHANGELOG.md) | What changed in the public terminal and data notes, by date and version (git tags `v0.N.0`) |
 | [docs/reading-a-score.md](docs/reading-a-score.md) | How to read an audit score and its base rate |
 | [docs/bnb-recorder.md](docs/bnb-recorder.md) | What the BNB recorder measures, and why its numbers are provisional |
 
