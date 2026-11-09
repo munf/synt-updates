@@ -4,6 +4,17 @@ Dates are UTC unless noted. Only changes visible in the public terminal or data 
 
 Each dated release has a version number (v0.N.0) and a matching git tag. Versions before v0.9.0 were numbered on 2026-11-09, after the fact.
 
+## 2026-11-08 (v0.9.0)
+
+- Trenches on phones: token, score and market cap fit a 390 px screen with no sideways scrolling. On the narrowest screens the top risk and Buy button move to a second line.
+- On phones the pair panel and sheet now include the score history (Scored N times so far) and the audit note.
+- First visit shows the page layout right away and starts loading the feed earlier.
+- Engine footer: Solana and BNB use the same words, the RPC error rate reads N of M calls failed this hour, and notes explain that counts run since the current engine version started.
+- Token page: each key figure appears once above the fold. Solana liquidity is labelled Liquidity (SOL side), with a note on where the number comes from.
+- Price chart on phones: the toolbar fits in two rows with no cut-off buttons. Graduated tokens mark the last price as end of curve data.
+- Pages for tokens synt does not track link to DexScreener only when DexScreener knows the token, and a paid DexScreener listing is marked as not a safety signal.
+- The early access notice is now a one-line pill that no longer covers the table, and Got it hides it for a day.
+
 ## 2026-10-29 (v0.8.0)
 
 - Trenches: the WHY and TOP RISK lines now fit properly when the side panel is open, and card styling was tidied.
